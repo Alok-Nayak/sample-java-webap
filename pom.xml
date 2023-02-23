@@ -27,4 +27,7 @@
   <build>
     <finalName>elmo-webapp</finalName>
   </build>
+  <properties>
+    <sonar.skipProjectReactor>true</sonar.skipProjectReactor>
+  </properties>
 </project>
